@@ -1,0 +1,34 @@
+{
+  "id": "4",
+  "type": "LESSON",
+  "title": "I. CÁC NGUYÊN TẮC DỌN DẸP",
+  "nextLesson": "",
+  "previousLesson": "",
+  "quizzLink": null,
+  "content": [
+    {
+      "h1": "1. Nguyên Tắc Dọn Dẹp"
+    },
+    {"line" : [{"text":  "Từ trên xuống dưới, từ trong ra ngoài."}]},
+    {"line" : [{"text":  "Sắp xếp đồ đạc gọn gàng ngăn nắp, đúng vị trí."}]},
+    {"line" : [{"text":  "Chú ý các đồ vật, vật dụng,sàn gỗ, cửa gỗ phải dùng khăn ẩm vắt thật khô để lau."}]},
+    {"line" : [{"text":  "Cất đồ đạc gọn gàng, đúng vị trí sau khi sử dụng."}]},
+    {
+      "h1": "2. Nguyên Tắc Sử Dụng Hóa Chất"
+    },
+    {"line" : [{"text":  "Không tự ý sử dụng hóa chất nếu không biết chức năng của nó."}]},
+    {"line" : [{"text":  "Mang bao tay khi sử dụng hóa chất. Đối với các chất tẩy rửa có chứa thuốc tẩy, hãy đeo khẩu trang và mở hết cửa ra vào, cửa sổ để phòng thoáng khí."}]},
+    {"line" : [{"text":  "Không dùng Vim & hóa chất tẩy mạnh để rửa lên các vật dụng bằng inox, sẽ bị oxi hóa."}]},
+    {"line" : [{"text":  "Hỏi ý kiến khách trước khi sử dụng hóa chất để tẩy rửa (vì một số khách dị ứng hoặc không cho phép sử dụng hóa chất)."}]},
+    {"line" : [{"text":  "Sau khi sử dụng cần phải rửa lại bằng nước sạch để đảm bảo sức khỏe cho gia đình khách."}]},
+    {"line" : [{"text":  "Để hóa chất xa tầm tay trẻ em, người già và vật nuôi trong nhà khách."}]},
+    {
+      "h1": "3. Nguyên Tắc Dùng Khăn"
+    },
+    {"line" : [{"text":  "Phân biệt các loại khăn: Khăn đa năng, Khăn lông."}]},
+    {"line" : [{"text":  "Phân biệt chức năng: Lau bàn - Bếp – Toilet – Kính."}]},
+    {"line" : [{"text":  "Sử dụng 2 loại khăn lau: lau ướt và lau khô."}]},
+    {"line" : [{"text":  "Dùng khăn ẩm lau trước sau đó dùng khăn khô lau lại ngay."}]},
+    {"line" : [{"text":  "Gấp khăn làm 4 hoặc làm 6 khi lau."}]}
+  ]
+}
