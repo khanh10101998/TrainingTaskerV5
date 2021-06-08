@@ -1,0 +1,66 @@
+{
+  "id": "4",
+  "type": "LESSON",
+  "title": "II. Tác phong",
+  "nextLesson": "",
+  "previousLesson": "",
+  "quizzLink": null,
+  "content": [
+    {
+      "video": ""
+    },
+    {
+      "h1": "1. Đi làm đúng giờ"
+    },
+    {
+      "line": [{
+        "text": "Thể hiện sự chuyên nghiệp, CTV nên sắp xếp và"
+      }, {
+        "string": "đến nhà Khách sớm ít nhất 05 phút để:"
+      }
+      ]
+    },
+    {
+      "list": [
+        {
+          "line": [
+            {
+              "text": "Đảm bảo tìm được đúng nhà Khách và đến đúng giờ."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Để có thời gian nghỉ ngơi, chỉnh lại tác phong trước khi bắt đầu vào ca làm việc mới."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h1": "2. Mặc đồng phục, lịch sự, chỉnh chu"
+    },
+
+    {
+      "list": [
+        {
+          "line": {
+            "text": "Về phía Khách hàng:"
+          },
+          "list": [
+            {"line": {"text":  "Nhận biết đây là nhân viên bTaskee "}},
+            {"line": {"text":  "Nhận biết đây là nhân viên bTaskee "}},
+            {"line": {"text":  "Nhận biết đây là nhân viên bTaskee "}}
+          ]
+
+
+        }
+      ]
+    },
+
+    {
+      "video": ""
+    }
+  ]
+}

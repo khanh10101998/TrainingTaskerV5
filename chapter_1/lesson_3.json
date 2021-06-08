@@ -63,34 +63,38 @@
       ]
     },
     {
-      "line": [
+      "list": [
         {
-          "text": "+ Bảo hiểm tai nạn cho người lao động; "
+          "line": [
+            {
+              "text": "Bảo hiểm tai nạn cho người lao động; "
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Hỗ trợ hủy hoặc từ chối những công việc không phù hợp tính chất dọn dẹp gia đình; "
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Từ chối những khách hàng có thái độ, hành vi không đúng mực; "
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Khi xảy ra tranh chấp, hiểu lầm với Khách hàng;\n"
+            }
+          ]
         }
       ]
     },
     {
-      "line": [
-        {
-          "text": "+ Hỗ trợ hủy hoặc từ chối những công việc không phù hợp tính chất dọn dẹp gia đình; "
-        }
-      ]
-    },
-     {
-      "line": [
-        {
-          "text": "+ Từ chối những khách hàng có thái độ, hành vi không đúng mực; "
-        }
-      ]
-    },
-     {
-      "line": [
-        {
-          "text": "+ Khi xảy ra tranh chấp, hiểu lầm với Khách hàng;\n"
-        }
-      ]
-    },
-     {
       "line": [
         {
           "text": "5. Có cộng đồng các chị em CTV để giao lưu, chia sẻ kinh nghiệm"
