@@ -1,0 +1,52 @@
+{
+  "id": "1",
+  "type": "LESSON",
+  "title": "III. Mô tả cách Nhận việc",
+  "nextLesson": "",
+  "previousLesson": null,
+  "quizzLink": null,
+  "content": [
+    {
+      "line": [
+        {
+          "text": "CÁCH HOẠT ĐỘNG CỦA MÔ HÌNH BTASKEE:"
+        }
+      ]
+    },
+    {
+      "line": [
+        {
+          "text": "- Khi có nhu cầu, Khách hàng sẽ đăng thông tin công việc lên hệ thống. Bao gồm: địa điểm, ngày, giờ bắt đầu làm việc và những yêu cầu khác..."
+        }
+      ]
+    },
+    {
+      "line": [
+        {
+          "text": "- Hệ thống sẽ gửi những thông tin công việc này đến các CTV thông qua ứng dụng bTaskee trên điện thoại. CTV xem thông tin và tự lựa chọn công việc phù hợp nhất với bản thân."
+        }
+      ]
+    },
+    {
+      "line": [
+        {
+          "text": "- Sau khi nhận việc thành công, CTV sẽ có số điện thoại của Khách hàng. CTV cần xác nhận lại với Khách hàng bằng cách Chat trực tiếp trên ứng dụng hoặc gọi điện thoại."
+        }
+      ]
+    },
+    {
+      "line": [
+        {
+          "text": "-  Đúng thời gian CTV đến đúng địa điểm nhà Khách hàng để thực hiện công việc."
+        }
+      ]
+    },
+    {
+      "line": [
+        {
+          "text": "- Sau khi hoàn thành công việc, CTV nhận tiền trực tiếp từ Khách hàng."
+        }
+      ]
+    }
+  ]
+}

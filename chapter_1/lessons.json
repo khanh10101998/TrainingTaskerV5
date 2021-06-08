@@ -38,7 +38,7 @@
     "type": "LESSON",
     "title": "I. Thái độ",
     "time": 4,
-    "link": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_5.json"
+    "link": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_4.json"
   },
   {
     "id": "5",
@@ -104,7 +104,7 @@
 
 
   {
-    "id": "13",
+    "id": "0",
     "type": "QUIZZ",
     "title": "VI. DỌN DẸP NHÀ VỆ SINH",
     "time": 10,
@@ -112,7 +112,7 @@
     "link": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/quizz_1.json"
   },
   {
-    "id": "7",
+    "id": "14",
     "type": "LESSON",
     "title": "Cách sử dụng chất tẩy rửa",
     "time": 4,

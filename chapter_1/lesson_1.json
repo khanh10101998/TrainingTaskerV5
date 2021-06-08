@@ -1,0 +1,27 @@
+{
+  "id": "1",
+  "type": "LESSON",
+  "title": "II. Định hướng nghề nghiệp.",
+  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_1.json",
+  "previousLesson": null,
+  "quizzLink": null,
+  "content": [
+    {
+      "line": [
+        {
+          "text": "Trước khi bước vào chương trình đào tạo để có thể nắm được những kỹ năng làm việc để trở thành một cộng tác viên chuyên nghiệp của bTaskee. Chúng ta hãy cùng xem khách hàng - những người sử dụng dịch vụ giúp việc nhà, họ đang nghĩ gì về nghề nghiệp của chúng ta nhé: "
+        }
+      ]
+    },
+    {
+      "line": [
+        {
+          "text": "Giúp việc nhà, một nghề như mọi nghề:"
+        }
+      ]
+    },
+    {
+      "video": "pZNvxCVZaYA"
+    }
+  ]
+}
