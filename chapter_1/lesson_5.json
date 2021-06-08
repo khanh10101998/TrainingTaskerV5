@@ -53,19 +53,25 @@
     {
       "list": [
         {
-          "line": {
-            "text": "Nhận biết đây là nhân viên bTaskee"
-          }
+          "line": [
+            {
+              "text": "Nhận biết đây là nhân viên bTaskee"
+            }
+          ]
         },
         {
-          "line": {
-            "text": "Tạo sự tin tưởng, thống nhất và đồng đều"
-          }
+          "line": [
+            {
+              "text": "Tạo sự tin tưởng, thống nhất và đồng đều"
+            }
+          ]
         },
         {
-          "line": {
-            "text": "Không phân biệt CTV cũ – mới, chất lượng như nhau."
-          }
+          "line": [
+            {
+              "text": "Không phân biệt CTV cũ – mới, chất lượng như nhau."
+            }
+          ]
         }
       ]
     },
@@ -79,14 +85,18 @@
     {
       "list": [
         {
-          "line": {
-            "text": "Tạo sự chuyên nghiệp và thiện cảm."
-          }
+          "line": [
+            {
+              "text": "Tạo sự chuyên nghiệp và thiện cảm."
+            }
+          ]
         },
         {
-          "line": {
-            "text": "Sự chỉnh chu còn thể hiện ở tóc tai gọn gàng, đồng phục sạch sẽ, giữ gìn vệ sinh cá nhân…"
-          }
+          "line": [
+            {
+              "text": "Sự chỉnh chu còn thể hiện ở tóc tai gọn gàng, đồng phục sạch sẽ, giữ gìn vệ sinh cá nhân…"
+            }
+          ]
         }
       ]
     },
@@ -144,6 +154,95 @@
             }
           ]
         }
+      ]
+    },
+    {
+      "h1": "Làm đến đâu, sạch sẽ và gọn gàng đến đó"
+    },
+    {
+      "list": [
+        [
+          {
+            "line": [
+              {
+                "text": "Dọn dẹp đến đâu sạch sẽ và gọn gàng đến đó, xong phòng này mới sang phòng khác."
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "line": [
+              {
+                "text": "Hạn chế bày bừa, sử dụng quá nhiều diện tích trong nhà Khách."
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "line": [
+              {
+                "text": "Nếu sử dụng dụng cụ của khách thì phải hỏi ý kiến trước, vệ sinh sau khi dùng và cất lại đúng vị trí ban đầu."
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "line": [
+              {
+                "text": "Nếu sử dụng dụng cụ của mình thì phải gom lại và cất vào túi dụng cụ của mình, không để lung tung hay bỏ quên tại nhà khách."
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "h1": "5. Hạn chế tạo tiếng động lớn trong khi làm việc"
+    },
+    {
+      "line": [
+        {
+          "text": "Trong quá trình dọn dẹp, CTV phải chú ý hạn chế gây ra tiếng động lớn, đặc biệt là các ca làm mà rơi vào giờ nghỉ ngơi của khách. Vừa tránh hư hỏng vật dụng, vừa tạo thiện cảm cho chủ nhà."
+        }
+      ]
+    },
+    {
+      "line": [
+        {
+          "text": "Đặc biệt là các trường hợp:"
+        }
+      ]
+    },
+    {
+      "list": [
+        [
+          {
+            "line": "Trong khi rửa chén: trượt tay làm rớt chén đĩa, xoong nồi, để chén đĩa va vào nhau…"
+          }
+        ],
+        [
+          {
+            "line": "Trong lúc lau dọn nhà: làm rơi cây lau nhà, làm rơi các vật dụng, đồ đạc…"
+          }
+        ],
+        [
+          {
+            "line": "Lên xuống cầu thang."
+          }
+        ],
+        [
+          {
+            "line": "Đóng cửa phòng, cửa tủ."
+          }
+        ],
+        [
+          {
+            "line": "Nếu sử dụng máy hút bụi thì phải hỏi ý kiến chủ nhà trước, vì máy hút bụi rất ồn."
+          }
+        ]
       ]
     }
   ]
