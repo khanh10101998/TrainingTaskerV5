@@ -5,7 +5,7 @@
   {
     "id": "0",
     "type": "LESSON",
-    "title": "I. Mô hình khanh10101998 là gì?",
+    "title": "I. Mô hình bTaskee là gì?",
     "time": 4,
     "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_0.json"
   },
@@ -69,7 +69,7 @@
   {
     "id": "8",
     "type": "LESSON",
-    "title": "II. BỘ CÔNG CỤ DỤNG CỤ DỌN DẸP CƠ BẢN khanh10101998",
+    "title": "II. BỘ CÔNG CỤ DỤNG CỤ DỌN DẸP CƠ BẢN BTASKEE",
     "time": 4,
     "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_6.json"
   },

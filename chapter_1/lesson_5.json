@@ -13,11 +13,13 @@
       "h1": "1. Đi làm đúng giờ"
     },
     {
-      "line": [{
-        "text": "Thể hiện sự chuyên nghiệp, CTV nên sắp xếp và"
-      }, {
-        "string": "đến nhà Khách sớm ít nhất 05 phút để:"
-      }
+      "line": [
+        {
+          "text": "Thể hiện sự chuyên nghiệp, CTV nên sắp xếp và"
+        },
+        {
+          "string": "đến nhà Khách sớm ít nhất 05 phút để:"
+        }
       ]
     },
     {
@@ -41,26 +43,108 @@
     {
       "h1": "2. Mặc đồng phục, lịch sự, chỉnh chu"
     },
-
+    {
+      "line": [
+        {
+          "text": "- Về phía Khách hàng: "
+        }
+      ]
+    },
     {
       "list": [
         {
           "line": {
-            "text": "Về phía Khách hàng:"
-          },
-          "list": [
-            {"line": {"text":  "Nhận biết đây là nhân viên bTaskee "}},
-            {"line": {"text":  "Nhận biết đây là nhân viên bTaskee "}},
-            {"line": {"text":  "Nhận biết đây là nhân viên bTaskee "}}
-          ]
-
-
+            "text": "Nhận biết đây là nhân viên bTaskee"
+          }
+        },
+        {
+          "line": {
+            "text": "Tạo sự tin tưởng, thống nhất và đồng đều"
+          }
+        },
+        {
+          "line": {
+            "text": "Không phân biệt CTV cũ – mới, chất lượng như nhau."
+          }
         }
       ]
     },
-
     {
-      "video": ""
+      "line": [
+        {
+          "text": "- Về phía các CTV:"
+        }
+      ]
+    },
+    {
+      "list": [
+        {
+          "line": {
+            "text": "Tạo sự chuyên nghiệp và thiện cảm."
+          }
+        },
+        {
+          "line": {
+            "text": "Sự chỉnh chu còn thể hiện ở tóc tai gọn gàng, đồng phục sạch sẽ, giữ gìn vệ sinh cá nhân…"
+          }
+        }
+      ]
+    },
+    {
+      "image": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/KoGX2kfXz4CGkXDcw"
+    },
+    {
+      "image_note": "Trang phục không chỉnh chu"
+    },
+    {
+      "image": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/zgiEAA2AxtWbcH5jm"
+    },
+    {
+      "image_note": "Trang phục chỉnh chu"
+    },
+    {
+      "h1": "3. Làm việc kỹ càng, nhiệt tình, không câu giờ"
+    },
+    {
+      "line": [
+        {
+          "text": "Khi đến nhà Khách hàng làm việc, yếu tố quan tâm nhất chính là chất lượng. Các CTV nên xem nhà Khách hàng cũng như nhà mình và làm việc kỹ càng, nhiệt tình, đặc biệt là không câu giờ."
+        }
+      ]
+    },
+    {
+      "list": [
+        {
+          "line": [
+            {
+              "strong": "Kỹ càng: "
+            },
+            {
+              "text": "làm sạch cả những chi tiết nhỏ; không làm qua loa, làm cho có."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "strong": "Nhiệt tình: "
+            },
+            {
+              "text": "làm việc năng nổ tích cực, làm việc với hiệu suất cao nhất, sẵn sàng hỗ trợ cho Khách với mục đích là để nhà Khách sạch sẽ."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "strong": "Không câu giờ: "
+            },
+            {
+              "text": "trong thời gian khách đặt lịch thì cố gắng làm tốt nhất có thể; không làm từ từ, lười biếng để vừa đúng giờ thì về."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
