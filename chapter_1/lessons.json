@@ -106,7 +106,7 @@
   {
     "id": "0",
     "type": "QUIZZ",
-    "title": "VI. DỌN DẸP NHÀ VỆ SINH",
+    "title": "BÀI KIỂM TRA KIẾN THỨC TỔNG QUÁT",
     "time": 10,
     "numberOfQuestions": 5,
     "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/quizz_1.json"
