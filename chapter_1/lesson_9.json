@@ -1,0 +1,91 @@
+{
+  "id": "6",
+  "type": "LESSON",
+  "title": "III. DỌN DẸP BẾP",
+  "nextLesson": "",
+  "previousLesson": "",
+  "quizzLink": null,
+  "content": [
+    {
+      "h1": "CÁC DỤNG CỤ LAU DỌN BẾP"
+    },
+    {
+      "list": [
+        {
+          "line": [{"text": "1. Khăn"}]
+        },
+        {
+          "line": [{"text": "2. Mút xốp rửa chén"}]
+        },
+        {
+          "line": [{"text": "3. Chổi quét nhà/Máy hút bụi"}]
+        },
+        {
+          "line": [{"text": "4. Cây lau đa năng"}]
+        },
+        {
+          "line": [{"text": "5. Găng tay"}]
+        },
+        {
+          "line": [{"text": "6. Nước lau sàn"}]
+        },
+        {
+          "line": [{"text": "7. Nước lau kính/Nước lau bếp/Nước lau đa năng"}]
+        },
+        {
+          "line": [{"text": "8. Kem tẩy đa năng"}]
+        },
+        {
+          "line": [{"text": "9. Nước rửa chén"}]
+        }
+        ]
+    },
+    {
+      "line": [
+        {"strong":  "*Lưu ý: "},
+        {
+          "text": "Tuyệt đối không sử dụng miếng chùi sắt/ miếng nhôm vì tính chất bào mòn bề mặt tiếp xúc sẽ gây hư hỏng vật dụng"
+        }
+      ]
+    },
+    {
+      "video": "iXyYJyq2L80"
+    },
+
+    {
+      "h1": "Quy trình dọn phòng bếp"
+    },
+
+     {
+      "list": [
+        {
+          "line": [{"text": "1. Gom chén, đĩa dơ, nồi, chảo cho vào bồn rửa chén. Rửa xong thì úp gọn cho ráo. Chú ý cất chén đĩa cũ đã khô vào tủ trước."}]
+        },
+        {
+          "line": [{"text": "2. Vệ sinh luôn bồn rửa chén và lau khô nước khu vực xung quanh."}]
+        },
+        {
+          "line": [{"text": "3. Dùng dung dịch lau đa năng/nước lau bếp/nước lau kính lau tủ trên kệ bếp, từ cao xuống thấp"}]
+        },
+        {
+          "line": [{"text": "4. Vệ sinh khu vực bếp nấu: như máy hút khói, bề mặt bếp gas, bếp điện, nồi cơm điện, bình siêu tốc, lau luôn mảng tường xung quanh vì rất hay bị dính dầu mỡ."}]
+        },
+        {
+          "line": [{"text": "5, Nếu còn thức ăn trên bàn thì sắp xếp hoặc bọc lại theo yêu cầu của khách. Sắp xếp đồ đạc vật dụng gọn gàng ngăn nắp."}]
+        },
+        {
+          "line": [{"text": "6. Vệ sinh tủ lạnh nếu khách yêu cầu."}]
+        },
+        {
+          "line": [{"text": "7. Quét hoặc hút bụi sàn nhà."}]
+        },
+        {
+          "line": [{"text": "8. Thu gom và đổ rác. Nếu có đồ ăn thừa cần báo khách trước khi mang đi vứt hoặc đổ."}]
+        },
+        {
+          "line": [{"text": "9. Nhìn bao quát lại một lần nữa để đảm bảo mọi thứ hoàn hảo."}]
+        }
+        ]
+    }
+  ]
+}
