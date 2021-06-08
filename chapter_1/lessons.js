@@ -1,11 +1,11 @@
 [
   {
-    "block": "Bài 1: btaskee la gi"
+    "block": "BÀI 1: BTASKEE LÀ GÌ?"
   },
   {
     "id": "0",
     "type": "LESSON",
-    "title": "I. Mô hình bTaskee là gì? ne",
+    "title": "I. Mô hình bTaskee là gì?",
     "time": 4,
     "link": "https://raw.githubusercontent.com/bTaskee/TrainingTaskerV4/master/chapter_1/lesson_0.json"
   },
