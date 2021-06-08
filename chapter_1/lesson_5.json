@@ -7,7 +7,7 @@
   "quizzLink": null,
   "content": [
     {
-      "video": ""
+      "video": "sDOl8i3F_Pc"
     },
     {
       "h1": "1. Đi làm đúng giờ"
@@ -218,32 +218,41 @@
     },
     {
       "list": [
-        [
-          {
-            "line": "Trong khi rửa chén: trượt tay làm rớt chén đĩa, xoong nồi, để chén đĩa va vào nhau…"
-          }
-        ],
-        [
-          {
-            "line": "Trong lúc lau dọn nhà: làm rơi cây lau nhà, làm rơi các vật dụng, đồ đạc…"
-          }
-        ],
-        [
-          {
-            "line": "Lên xuống cầu thang."
-          }
-        ],
-        [
-          {
-            "line": "Đóng cửa phòng, cửa tủ."
-          }
-        ],
-        [
-          {
-            "line": "Nếu sử dụng máy hút bụi thì phải hỏi ý kiến chủ nhà trước, vì máy hút bụi rất ồn."
-          }
-        ]
+        {
+          "line": [
+            {
+              "text": "Trong khi rửa chén: trượt tay làm rớt chén đĩa, xoong nồi, để chén đĩa va vào nhau..."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Trong lúc lau dọn nhà: làm rơi cây lau nhà, làm rơi các vật dụng, đồ đạc..."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Lên xuống cầu thang."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Đóng cửa phòng, cửa tủ."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Nếu sử dụng máy hút bụi thì phải hỏi ý kiến chủ nhà trước, vì máy hút bụi rất ồn."
+              ]
+            }
+          ]
+        }
       ]
     }
-  ]
-}
