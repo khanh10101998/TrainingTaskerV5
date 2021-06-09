@@ -10,7 +10,7 @@
     {
       "id": "0",
       "type": "ONE_CHOICE",
-      "question": "1. Nếu công việc bắt đầu lúc 09:00 thì người giúp việc nên:",
+      "question": "Nếu công việc bắt đầu lúc 09:00 thì người giúp việc nên:",
       "rightAnswer": [
         1
       ],
@@ -23,7 +23,7 @@
     {
       "id": "1",
       "type": "ONE_CHOICE",
-      "question": "2. Khi đến nhà khách và nhận thấy khách hàng là 1 người khó tính, thái độ không được vui vẻ thì người giúp việc nên làm gì ?",
+      "question": "Khi đến nhà khách và nhận thấy khách hàng là 1 người khó tính, thái độ không được vui vẻ thì người giúp việc nên làm gì ?",
       "rightAnswer": [
         1
       ],
@@ -36,7 +36,7 @@
     {
       "id": "2",
       "type": "ONE_CHOICE",
-      "question": "3. Khi đến nhà Khách hàng dọn dẹp, tác phong của người giúp việc nên như thế nào?",
+      "question": "Khi đến nhà Khách hàng dọn dẹp, tác phong của người giúp việc nên như thế nào?",
       "rightAnswer": [
         0
       ],
@@ -49,7 +49,7 @@
     {
       "id": "3",
       "type": "ONE_CHOICE",
-      "question": "4. Khi đến nhà khách làm, người giúp việc nên giữ thái độ như thế nào? (Có thể chọn nhiều đáp án)",
+      "question": "Khi đến nhà khách làm, người giúp việc nên giữ thái độ như thế nào? (Có thể chọn nhiều đáp án)",
       "rightAnswer": [
         2
       ],
@@ -63,7 +63,7 @@
     {
       "id": "4",
       "type": "ONE_CHOICE",
-      "question": "5. Sau khi hoàn thành công việc, người giúp việc nên:",
+      "question": "Sau khi hoàn thành công việc, người giúp việc nên:",
       "rightAnswer": [
         2
       ],
@@ -76,7 +76,7 @@
     {
       "id": "5",
       "type": "ONE_CHOICE",
-      "question": "6. Khi không thể đến làm việc đúng giờ người giúp việc cần làm gì?",
+      "question": "Khi không thể đến làm việc đúng giờ người giúp việc cần làm gì?",
       "rightAnswer": [
         1
       ],
@@ -89,7 +89,7 @@
     {
       "id": "6",
       "type": "ONE_CHOICE",
-      "question": "7. Khi khách hàng mở cửa để người giúp việc vào làm thì nên nói gì khi gặp khách hàng ?",
+      "question": "Khi khách hàng mở cửa để người giúp việc vào làm thì nên nói gì khi gặp khách hàng ?",
       "rightAnswer": [
         0
       ],
@@ -102,7 +102,7 @@
     {
       "id": "7",
       "type": "ONE_CHOICE",
-      "question": "8. Khi khách hàng yêu cầu bạn dọn dẹp theo cách làm của khách hàng nhưng bạn nhận thấy không đúng thì nên xử lý như thế nào ?",
+      "question": "Khi khách hàng yêu cầu bạn dọn dẹp theo cách làm của khách hàng nhưng bạn nhận thấy không đúng thì nên xử lý như thế nào ?",
       "rightAnswer": [
         2
       ],
@@ -115,7 +115,7 @@
     {
       "id": "8",
       "type": "ONE_CHOICE",
-      "question": "9. Khi làm việc tại nhà khách hàng bạn nên mặc trang phục như thế nào?",
+      "question": "Khi làm việc tại nhà khách hàng bạn nên mặc trang phục như thế nào?",
       "rightAnswer": [
         2
       ],
@@ -128,7 +128,7 @@
     {
       "id": "9",
       "type": "ONE_CHOICE",
-      "question": "10. Khi đi làm về và phát hiện điểm sao bị giảm, nghi ngờ là khách hàng A đánh giá thấp, bạn sẽ làm gì ?",
+      "question": "Khi đi làm về và phát hiện điểm sao bị giảm, nghi ngờ là khách hàng A đánh giá thấp, bạn sẽ làm gì ?",
       "rightAnswer": [
         1
       ],
@@ -140,7 +140,7 @@
     {
       "id": "10",
       "type": "ONE_CHOICE",
-      "question": "11. Để phòng tránh trường hợp khách nghi ngờ lấy cắp đồ, tiền bạc thì người giúp việc nên làm gì?",
+      "question": "Để phòng tránh trường hợp khách nghi ngờ lấy cắp đồ, tiền bạc thì người giúp việc nên làm gì?",
       "rightAnswer": [
         4
       ],
@@ -156,7 +156,7 @@
     {
       "id": "11",
       "type": "ONE_CHOICE",
-      "question": "12. Trong quá trình làm việc, vô tình làm đỗ, vỡ đồ trong nhà của khách, không biết đồ đó giá trị hay không, người giúp việc nên làm gì?",
+      "question": "Trong quá trình làm việc, vô tình làm đỗ, vỡ đồ trong nhà của khách, không biết đồ đó giá trị hay không, người giúp việc nên làm gì?",
       "rightAnswer": [
         2
       ],
@@ -169,7 +169,7 @@
     {
       "id": "12",
       "type": "MULTI_CHOICES",
-      "question": "13. Nếu gặp khách nước ngoài, mà cần giao tiếp với khách, bạn sẽ làm gì? (có thể chọn nhiều đáp án)",
+      "question": "Nếu gặp khách nước ngoài, mà cần giao tiếp với khách, bạn sẽ làm gì? (có thể chọn nhiều đáp án)",
       "rightAnswer": [
         0, 3
       ],
@@ -184,7 +184,7 @@
     {
       "id": "13",
       "type": "MULTI_CHOICES",
-      "question": "14. Nếu đã hoàn thành công việc cho khách, cuối giờ Khách yêu cầu làm thêm, bạn sẽ xử lý như thế nào? (Có thể chọn nhiều đáp án)",
+      "question": "Nếu đã hoàn thành công việc cho khách, cuối giờ Khách yêu cầu làm thêm, bạn sẽ xử lý như thế nào? (Có thể chọn nhiều đáp án)",
       "rightAnswer": [
         2, 4
       ],
@@ -199,7 +199,7 @@
     {
       "id": "14",
       "type": "ONE_CHOICE",
-      "question": "15. Khi đến làm việc khách hàng khen người giúp việc làm tốt và muốn người giúp việc đến  làm thường xuyên mà không thông qua công ty nữa, nên làm gì ?",
+      "question": "Khi đến làm việc khách hàng khen người giúp việc làm tốt và muốn người giúp việc đến  làm thường xuyên mà không thông qua công ty nữa, nên làm gì ?",
       "rightAnswer": [
         2
       ],
@@ -213,7 +213,7 @@
     {
       "id": "15",
       "type": "ONE_CHOICE",
-      "question": "16. Khi đã nhận công việc nhưng đến nơi không liên hệ được khách hàng, người giúp việc nên làm gì ?",
+      "question": "Khi đã nhận công việc nhưng đến nơi không liên hệ được khách hàng, người giúp việc nên làm gì ?",
       "rightAnswer": [
         2
       ],
@@ -226,7 +226,7 @@
     {
       "id": "16",
       "type": "ONE_CHOICE",
-      "question": "17. Hoàn thành xong công việc mà vẫn còn dư 30 phút, bạn sẽ làm gì?",
+      "question": "Hoàn thành xong công việc mà vẫn còn dư 30 phút, bạn sẽ làm gì?",
       "rightAnswer": [
         2
       ],
@@ -239,7 +239,7 @@
     {
       "id": "17",
       "type": "ONE_CHOICE",
-      "question": "18. Khi không tìm được địa chỉ nhà khách hoặc địa chỉ nhà khách khó tìm thì phải làm sao?",
+      "question": "Khi không tìm được địa chỉ nhà khách hoặc địa chỉ nhà khách khó tìm thì phải làm sao?",
       "rightAnswer": [
         0
       ],
@@ -252,7 +252,7 @@
     {
       "id": "18",
       "type": "ONE_CHOICE",
-      "question": "19. Trường hợp nào sau đây sẽ được liên hệ với khách hàng?",
+      "question": "Trường hợp nào sau đây sẽ được liên hệ với khách hàng?",
       "rightAnswer": [
         0
       ],
@@ -266,7 +266,7 @@
     {
       "id": "19",
       "type": "ONE_CHOICE",
-      "question": "20. Khi nhận việc rồi nhưng bận việc đột xuất không thể đến làm được thì phải làm sao?",
+      "question": "Khi nhận việc rồi nhưng bận việc đột xuất không thể đến làm được thì phải làm sao?",
       "rightAnswer": [
         1
       ],
