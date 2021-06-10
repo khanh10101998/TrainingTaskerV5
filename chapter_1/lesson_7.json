@@ -2,8 +2,8 @@
   "id": "4",
   "type": "LESSON",
   "title": "I. CÁC NGUYÊN TẮC DỌN DẸP",
-  "nextLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lessons_8.json",
-  "previousLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lessons_6.json",
+  "nextLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_8.json",
+  "previousLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_6.json",
   "quizzLink": null,
   "content": [
     {

@@ -2,8 +2,8 @@
   "id": "4",
   "type": "LESSON",
   "title": "I. Thái độ",
-  "nextLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lessons_5.json",
-  "previousLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lessons_3.json",
+  "nextLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_5.json",
+  "previousLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_3.json",
   "quizzLink": null,
   "content": [
     {
