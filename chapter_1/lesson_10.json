@@ -2,8 +2,8 @@
   "id": "6",
   "type": "LESSON",
   "title": "IV. DỌN DẸP PHÒNG NGỦ",
-  "nextLesson": "",
-  "previousLesson": "",
+  "nextLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lessons_11.json",
+  "previousLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lessons_9.json",
   "quizzLink": null,
   "content": [
     {

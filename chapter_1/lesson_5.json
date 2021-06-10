@@ -2,8 +2,8 @@
   "id": "4",
   "type": "LESSON",
   "title": "II. Tác phong",
-  "nextLesson": "",
-  "previousLesson": "",
+  "nextLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lessons_6.json",
+  "previousLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lessons_4.json",
   "quizzLink": null,
   "content": [
     {

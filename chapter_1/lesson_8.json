@@ -2,8 +2,8 @@
   "id": "6",
   "type": "LESSON",
   "title": "II. BỘ CÔNG CỤ DỤNG CỤ DỌN DẸP CƠ BẢN BTASKEE",
-  "nextLesson": "",
-  "previousLesson": "",
+  "nextLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lessons_9.json",
+  "previousLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lessons_7.json",
   "quizzLink": null,
   "content": [
     {
