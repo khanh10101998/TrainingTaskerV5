@@ -161,42 +161,34 @@
     },
     {
       "list": [
-        [
-          {
-            "line": [
-              {
-                "text": "Dọn dẹp đến đâu sạch sẽ và gọn gàng đến đó, xong phòng này mới sang phòng khác."
-              }
-            ]
-          }
-        ],
-        [
-          {
-            "line": [
-              {
-                "text": "Hạn chế bày bừa, sử dụng quá nhiều diện tích trong nhà Khách."
-              }
-            ]
-          }
-        ],
-        [
-          {
-            "line": [
-              {
-                "text": "Nếu sử dụng dụng cụ của khách thì phải hỏi ý kiến trước, vệ sinh sau khi dùng và cất lại đúng vị trí ban đầu."
-              }
-            ]
-          }
-        ],
-        [
-          {
-            "line": [
-              {
-                "text": "Nếu sử dụng dụng cụ của mình thì phải gom lại và cất vào túi dụng cụ của mình, không để lung tung hay bỏ quên tại nhà khách."
-              }
-            ]
-          }
-        ]
+        {
+          "line": [
+            {
+              "text": "Dọn dẹp đến đâu sạch sẽ và gọn gàng đến đó, xong phòng này mới sang phòng khác."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Hạn chế bày bừa, sử dụng quá nhiều diện tích trong nhà Khách."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Nếu sử dụng dụng cụ của khách thì phải hỏi ý kiến trước, vệ sinh sau khi dùng và cất lại đúng vị trí ban đầu."
+            }
+          ]
+        },
+        {
+          "line": [
+            {
+              "text": "Nếu sử dụng dụng cụ của mình thì phải gom lại và cất vào túi dụng cụ của mình, không để lung tung hay bỏ quên tại nhà khách."
+            }
+          ]
+        }
       ]
     },
     {
@@ -251,9 +243,9 @@
             {
               "text": "Nếu sử dụng máy hút bụi thì phải hỏi ý kiến chủ nhà trước, vì máy hút bụi rất ồn."
             }
-                ]
-            }
           ]
         }
       ]
     }
+  ]
+}

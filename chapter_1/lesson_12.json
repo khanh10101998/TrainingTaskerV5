@@ -2,7 +2,7 @@
   "id": "12",
   "type": "LESSON",
   "title": "VI. DỌN DẸP NHÀ VỆ SINH",
-  "nextLesson": null,
+  "nextLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/quizz_1.json",
   "previousLesson": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_12.json",
   "quizzLink": null,
   "content": [
