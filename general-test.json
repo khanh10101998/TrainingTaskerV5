@@ -1,0 +1,40 @@
+{
+  "id": "0",
+  "type": "QUIZZ",
+  "title": "BÀI KIỂM TRA TỔNG QUÁT",
+  "scoreRate": 80,
+  "version": 5,
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Nếu công việc bắt đầu lúc 09:00 thì người giúp việc nên:",
+      "rightAnswer": [
+        1
+      ],
+      "choices": [
+        "Sắp xếp thời gian để đúng 9:00 có mặt tại nhà khách.",
+        "Sắp xếp thời gian để có mặt tại nhà khách sớm hơn giờ làm ít nhất 05 phút.",
+        "Sắp xếp thời gian để có mặt càng sớm càng tốt."
+      ]
+    },
+    {
+      "id": "1",
+      "type": "ONE_CHOICE",
+      "question": "Khi đến nhà khách và nhận thấy khách hàng là 1 người khó tính, thái độ không được vui vẻ thì người giúp việc nên làm gì ?",
+      "rightAnswer": [
+        1
+      ],
+      "choices": [
+        "Không cần quan tâm đến khách hàng, chỉ cần tập trung làm việc, khách nói gì kệ họ.",
+        "Tập trung vào công việc nhưng vẫn vui vẻ cởi mở với khách hàng, sẵn sàng hợp tác làm công việc mà họ yêu cầu.",
+        "Nếu khách khó chịu với mình thì mình cũng khó chịu lại với họ sau đó báo công ty để được hỗ trợ."
+      ]
+    }
+
+  ]
+}
+
+
+
+
