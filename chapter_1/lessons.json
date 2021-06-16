@@ -7,28 +7,28 @@
     "type": "LESSON",
     "title": "I. Mô hình bTaskee là gì?",
     "time": 4,
-    "link": "https://raw.githubusercontent.com/khanh10101998/testing/master/chapter_1/lesson_0.json"
+    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/testing/chapter_1/lesson_0.json"
   },
   {
     "id": "1",
     "type": "LESSON",
     "title": "II. Định hướng nghề nghiệp.",
     "time": 3,
-    "link": "https://raw.githubusercontent.com/khanh10101998/testing/master/chapter_1/lesson_1.json"
+    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/testing/chapter_1/lesson_1.json"
   },
   {
     "id": "2",
     "type": "LESSON",
     "title": "III. Mô tả cách Nhận việc",
     "time": 10,
-    "link": "https://raw.githubusercontent.com/khanh10101998/testing/master/chapter_1/lesson_2.json"
+    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/testing/chapter_1/lesson_2.json"
   },
   {
     "id": "3",
     "type": "LESSON",
     "title": "IV. Lợi ích khi trở thành CTV",
     "time": 10,
-    "link": "https://raw.githubusercontent.com/khanh10101998/testing/master/chapter_1/lesson_3.json"
+    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/testing/chapter_1/lesson_3.json"
   },
   {
     "id": "0",
@@ -36,6 +36,6 @@
     "title": "BÀI KIỂM TRA KIẾN THỨC TỔNG QUÁT",
     "time": 10,
     "numberOfQuestions": 5,
-    "link": "https://raw.githubusercontent.com/khanh10101998/testing/master/chapter_1/quizz_1.json"
+    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/testing/chapter_1/quizz_1.json"
   }
 ]
