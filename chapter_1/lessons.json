@@ -1,113 +1,41 @@
 [
   {
-    "block": "BÀI 1: khanh10101998 LÀ GÌ?"
+    "block": "BÀI 1: BTASKEE LÀ GÌ?"
   },
   {
     "id": "0",
     "type": "LESSON",
     "title": "I. Mô hình bTaskee là gì?",
     "time": 4,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_0.json"
+    "link": "https://raw.githubusercontent.com/khanh10101998/testing/master/chapter_1/lesson_0.json"
   },
   {
     "id": "1",
     "type": "LESSON",
     "title": "II. Định hướng nghề nghiệp.",
     "time": 3,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_1.json"
+    "link": "https://raw.githubusercontent.com/khanh10101998/testing/master/chapter_1/lesson_1.json"
   },
   {
     "id": "2",
     "type": "LESSON",
     "title": "III. Mô tả cách Nhận việc",
     "time": 10,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_2.json"
+    "link": "https://raw.githubusercontent.com/khanh10101998/testing/master/chapter_1/lesson_2.json"
   },
   {
     "id": "3",
     "type": "LESSON",
     "title": "IV. Lợi ích khi trở thành CTV",
     "time": 10,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_3.json"
+    "link": "https://raw.githubusercontent.com/khanh10101998/testing/master/chapter_1/lesson_3.json"
   },
-  {
-    "block": "Bài 2: THÁI ĐỘ - TÁC PHONG - ỨNG XỬ"
-  },
-  {
-    "id": "4",
-    "type": "LESSON",
-    "title": "I. Thái độ",
-    "time": 4,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_4.json"
-  },
-  {
-    "id": "5",
-    "type": "LESSON",
-    "title": "II. Tác phong",
-    "time": 10,
-    "numberOfQuestions": 5,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_5.json"
-  },
-  {
-    "id": "6",
-    "type": "LESSON",
-    "title": "III. Ứng xử",
-    "time": 4,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_6.json"
-  },
-  {
-    "block": "Bài 3: KỸ NĂNG"
-  },
-
-  {
-    "id": "7",
-    "type": "LESSON",
-    "title": "I. CÁC NGUYÊN TẮC DỌN DẸP",
-    "time": 4,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_7.json"
-  },
-  {
-    "id": "8",
-    "type": "LESSON",
-    "title": "II. BỘ CÔNG CỤ DỤNG CỤ DỌN DẸP CƠ BẢN BTASKEE",
-    "time": 4,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_8.json"
-  },
-  {
-    "id": "9",
-    "type": "LESSON",
-    "title": "III. DỌN DẸP BẾP",
-    "time": 4,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_9.json"
-  },
-  {
-    "id": "10",
-    "type": "LESSON",
-    "title": "IV. DỌN DẸP PHÒNG NGỦ",
-    "time": 4,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_10.json"
-  },
-  {
-    "id": "11",
-    "type": "LESSON",
-    "title": "V. DỌN DẸP PHÒNG KHÁCH",
-    "time": 4,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_11.json"
-  },
-  {
-    "id": "12",
-    "type": "LESSON",
-    "title": "VI. DỌN DẸP NHÀ VỆ SINH",
-    "time": 4,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lesson_12.json"
-  },
-
   {
     "id": "0",
     "type": "QUIZZ",
     "title": "BÀI KIỂM TRA KIẾN THỨC TỔNG QUÁT",
     "time": 10,
     "numberOfQuestions": 5,
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/quizz_1.json"
+    "link": "https://raw.githubusercontent.com/khanh10101998/testing/master/chapter_1/quizz_1.json"
   }
 ]

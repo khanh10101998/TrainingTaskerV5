@@ -2,7 +2,7 @@
   {
     "id": "0",
     "title": "Kiến thức cơ bản",
-    "link": "https://raw.githubusercontent.com/khanh10101998/TrainingTaskerV5/master/chapter_1/lessons.json",
+    "link": "https://raw.githubusercontent.com/khanh10101998/testing/master/chapter_1/lessons.json",
     "rateScore": 80,
     "version": "5",
     "numberQuizz": 1

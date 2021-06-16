@@ -1,0 +1,39 @@
+{
+  "id": "0",
+  "type": "QUIZZ",
+  "title": "BÀI KIỂM TRA KỸ NĂNG XỬ LÝ TÌNH HUỐNG",
+  "scoreRate": 80,
+  "nextLesson": null,
+  "isFinal": true,
+  "previousQuizz": null,
+  "questions": [
+    {
+      "id": "0",
+      "type": "ONE_CHOICE",
+      "question": "Trong những công việc dưới đây, công việc nào mang tính chất là dọn dẹp gia đình?",
+      "rightAnswer": [
+        0
+      ],
+      "choices": [
+        "Dọn dẹp lau chùi, vệ sinh nhà cửa, giặt quần áo, ủi đồ, nấu ăn.",
+        "Vệ sinh gạch vôi, vữa nhà mới xây, cắt cỏ.",
+        "Trông em bé.",
+        "Đáp án A và B."
+      ]
+    },
+    {
+      "id": "1",
+      "type": "ONE_CHOICE",
+      "question": "Bộ công dụng cụ cơ bản cần có của một người giúp việc nhà bao gồm những gì?",
+      "rightAnswer": [
+        3
+      ],
+      "choices": [
+        "Chổi - Ky hốt rác - Hóa chất các loại ( nước lau sàn,nước lau kính, nước rửa chén, vim tẩy bồn cầu,...).",
+        "Gạt kính - Cọ mút mềm - Xô gấp gọn - Cây lau đa năng.",
+        "Bao tay y tế - Bộ khăn đa năng - Balo đựng tất cả dụng cụ.",
+        "Tất cả đáp án trên đều đúng"
+      ]
+    }
+  ]
+}
